@@ -77,7 +77,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TARUNCDK/TARUNCDK/output/snake.svg" alt="Snake animation" />
 
 ###
 
