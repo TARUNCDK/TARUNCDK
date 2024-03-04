@@ -1,8 +1,11 @@
-<p align="left">My name is Tarun Chandra Deep Kurapati Currently reside in Hyderabad.</p>
 
 ###
 
 <h1 align="center">Hey What's Up 👋🏻</h1>
+
+###
+
+<p align="left">My name is Tarun Chandra Deep Kurapati Currently reside in Hyderabad.</p>
 
 ###
 
