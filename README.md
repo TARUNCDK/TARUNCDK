@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is Tarun Chandra Deep Kurapati Currently reside in Hyderabad.</p>
+<p align="left">My name is Tarun Chandra Deep Kurapati Currently resides in Hyderabad.</p>
 
 ###
 
