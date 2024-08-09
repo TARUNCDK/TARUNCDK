@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨Creating Bugs since 😁 2022<br>📚I’m currently learning Advanced JavaScript<br>🎯Goals: Aspiring Full Stack Developer</p>
+<p align="left">✨Creating Bugs since 😁 2022<br>📚I’m currently learning React JS<br>🎯Goals: Aspiring Full Stack Developer</p>
 
 ###
 
